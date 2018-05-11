@@ -1,0 +1,756 @@
+{
+   "features" : [
+      {
+         "attributes" : {
+            "BNAME_" : "1(2-1).txt",
+            "CONVERAGE_" : 1,
+            "FNAME_" : "1(1-2).txt",
+            "FNODE_" : 1,
+            "LENGTH" : 0,
+            "TNODE_" : 2
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "1(3-2).txt",
+            "CONVERAGE_" : 2,
+            "FNAME_" : "1(2-3).txt",
+            "FNODE_" : 2,
+            "LENGTH" : 0,
+            "TNODE_" : 3
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "2(4-3).txt",
+            "CONVERAGE_" : 3,
+            "FNAME_" : "2(3-4).txt",
+            "FNODE_" : 3,
+            "LENGTH" : 0,
+            "TNODE_" : 4
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "2(5-4).txt",
+            "CONVERAGE_" : 4,
+            "FNAME_" : "2(4-5).txt",
+            "FNODE_" : 4,
+            "LENGTH" : 0,
+            "TNODE_" : 5
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "2(6-5).txt",
+            "CONVERAGE_" : 5,
+            "FNAME_" : "2(5-6).txt",
+            "FNODE_" : 5,
+            "LENGTH" : 0,
+            "TNODE_" : 6
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "2(7-5).txt",
+            "CONVERAGE_" : 6,
+            "FNAME_" : "2(5-7).txt",
+            "FNODE_" : 5,
+            "LENGTH" : 0,
+            "TNODE_" : 7
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "2(8-7).txt",
+            "CONVERAGE_" : 7,
+            "FNAME_" : "2(7-8).txt",
+            "FNODE_" : 7,
+            "LENGTH" : 0,
+            "TNODE_" : 8
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(9-6).txt",
+            "CONVERAGE_" : 8,
+            "FNAME_" : "3(6-9).txt",
+            "FNODE_" : 6,
+            "LENGTH" : 0,
+            "TNODE_" : 9
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(10-9).txt",
+            "CONVERAGE_" : 9,
+            "FNAME_" : "3(9-10).txt",
+            "FNODE_" : 9,
+            "LENGTH" : 0,
+            "TNODE_" : 10
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(11-10).txt",
+            "CONVERAGE_" : 10,
+            "FNAME_" : "3(10-11).txt",
+            "FNODE_" : 10,
+            "LENGTH" : 0,
+            "TNODE_" : 11
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(12-11).txt",
+            "CONVERAGE_" : 11,
+            "FNAME_" : "3(11-12).txt",
+            "FNODE_" : 11,
+            "LENGTH" : 0,
+            "TNODE_" : 12
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(13-12).txt",
+            "CONVERAGE_" : 12,
+            "FNAME_" : "3(12-13).txt",
+            "FNODE_" : 12,
+            "LENGTH" : 0,
+            "TNODE_" : 13
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(14-13).txt",
+            "CONVERAGE_" : 13,
+            "FNAME_" : "3(13-14).txt",
+            "FNODE_" : 13,
+            "LENGTH" : 0,
+            "TNODE_" : 14
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(15-14).txt",
+            "CONVERAGE_" : 14,
+            "FNAME_" : "3(14-15).txt",
+            "FNODE_" : 14,
+            "LENGTH" : 0,
+            "TNODE_" : 15
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(16-15).txt",
+            "CONVERAGE_" : 15,
+            "FNAME_" : "3(15-16).txt",
+            "FNODE_" : 15,
+            "LENGTH" : 0,
+            "TNODE_" : 16
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(17-16).txt",
+            "CONVERAGE_" : 16,
+            "FNAME_" : "3(16-17).txt",
+            "FNODE_" : 16,
+            "LENGTH" : 0,
+            "TNODE_" : 17
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(18-17).txt",
+            "CONVERAGE_" : 17,
+            "FNAME_" : "3(17-18).txt",
+            "FNODE_" : 17,
+            "LENGTH" : 0,
+            "TNODE_" : 18
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(19-18).txt",
+            "CONVERAGE_" : 18,
+            "FNAME_" : "3(18-19).txt",
+            "FNODE_" : 18,
+            "LENGTH" : 0,
+            "TNODE_" : 19
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(20-19).txt",
+            "CONVERAGE_" : 19,
+            "FNAME_" : "3(19-20).txt",
+            "FNODE_" : 19,
+            "LENGTH" : 0,
+            "TNODE_" : 20
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "3(21-20).txt",
+            "CONVERAGE_" : 20,
+            "FNAME_" : "3(20-21).txt",
+            "FNODE_" : 20,
+            "LENGTH" : 0,
+            "TNODE_" : 21
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "4(22-8).txt",
+            "CONVERAGE_" : 21,
+            "FNAME_" : "4(8-22).txt",
+            "FNODE_" : 8,
+            "LENGTH" : 0,
+            "TNODE_" : 22
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "5(23-2).txt",
+            "CONVERAGE_" : 22,
+            "FNAME_" : "5(2-23).txt",
+            "FNODE_" : 2,
+            "LENGTH" : 0,
+            "TNODE_" : 23
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "6(24-23).txt",
+            "CONVERAGE_" : 23,
+            "FNAME_" : "6(23-24).txt",
+            "FNODE_" : 23,
+            "LENGTH" : 0,
+            "TNODE_" : 24
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "6(25-24).txt",
+            "CONVERAGE_" : 24,
+            "FNAME_" : "6(24-25).txt",
+            "FNODE_" : 24,
+            "LENGTH" : 0,
+            "TNODE_" : 25
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "6(21-25).txt",
+            "CONVERAGE_" : 25,
+            "FNAME_" : "6(25-21).txt",
+            "FNODE_" : 25,
+            "LENGTH" : 0,
+            "TNODE_" : 21
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "6(26-25).txt",
+            "CONVERAGE_" : 26,
+            "FNAME_" : "6(25-26).txt",
+            "FNODE_" : 25,
+            "LENGTH" : 0,
+            "TNODE_" : 26
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "6(22-26).txt",
+            "CONVERAGE_" : 27,
+            "FNAME_" : "6(26-22).txt",
+            "FNODE_" : 26,
+            "LENGTH" : 0,
+            "TNODE_" : 22
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "7(28-10).txt",
+            "CONVERAGE_" : 28,
+            "FNAME_" : "7(10-28).txt",
+            "FNODE_" : 10,
+            "LENGTH" : 0,
+            "TNODE_" : 28
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "7(27-28).txt",
+            "CONVERAGE_" : 29,
+            "FNAME_" : "7(28-27).txt",
+            "FNODE_" : 28,
+            "LENGTH" : 0,
+            "TNODE_" : 27
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "7(9-27).txt",
+            "CONVERAGE_" : 30,
+            "FNAME_" : "7(27-9).txt",
+            "FNODE_" : 27,
+            "LENGTH" : 0,
+            "TNODE_" : 9
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "8(29-11).txt",
+            "CONVERAGE_" : 31,
+            "FNAME_" : "8(11-29).txt",
+            "FNODE_" : 11,
+            "LENGTH" : 0,
+            "TNODE_" : 29
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "8(28-29).txt",
+            "CONVERAGE_" : 32,
+            "FNAME_" : "8(29-28).txt",
+            "FNODE_" : 29,
+            "LENGTH" : 0,
+            "TNODE_" : 28
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "9(30-12).txt",
+            "CONVERAGE_" : 33,
+            "FNAME_" : "9(12-30).txt",
+            "FNODE_" : 12,
+            "LENGTH" : 0,
+            "TNODE_" : 30
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "9(29-30).txt",
+            "CONVERAGE_" : 34,
+            "FNAME_" : "9(30-29).txt",
+            "FNODE_" : 30,
+            "LENGTH" : 0,
+            "TNODE_" : 29
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "10(31-13).txt",
+            "CONVERAGE_" : 35,
+            "FNAME_" : "10(13-31).txt",
+            "FNODE_" : 13,
+            "LENGTH" : 0,
+            "TNODE_" : 31
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "10(30-31).txt",
+            "CONVERAGE_" : 36,
+            "FNAME_" : "10(31-30).txt",
+            "FNODE_" : 31,
+            "LENGTH" : 0,
+            "TNODE_" : 30
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "11(32-14).txt",
+            "CONVERAGE_" : 37,
+            "FNAME_" : "11(14-32).txt",
+            "FNODE_" : 14,
+            "LENGTH" : 0,
+            "TNODE_" : 32
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "11(31-32).txt",
+            "CONVERAGE_" : 38,
+            "FNAME_" : "11(32-31).txt",
+            "FNODE_" : 32,
+            "LENGTH" : 0,
+            "TNODE_" : 31
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "12(33-15).txt",
+            "CONVERAGE_" : 39,
+            "FNAME_" : "12(15-33).txt",
+            "FNODE_" : 15,
+            "LENGTH" : 0,
+            "TNODE_" : 33
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "12(32-33).txt",
+            "CONVERAGE_" : 40,
+            "FNAME_" : "12(33-32).txt",
+            "FNODE_" : 33,
+            "LENGTH" : 0,
+            "TNODE_" : 32
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "13(34-16).txt",
+            "CONVERAGE_" : 41,
+            "FNAME_" : "13(16-34).txt",
+            "FNODE_" : 16,
+            "LENGTH" : 0,
+            "TNODE_" : 34
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "13(33-34).txt",
+            "CONVERAGE_" : 42,
+            "FNAME_" : "13(34-33).txt",
+            "FNODE_" : 34,
+            "LENGTH" : 0,
+            "TNODE_" : 33
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "14(35-17).txt",
+            "CONVERAGE_" : 43,
+            "FNAME_" : "14(17-35).txt",
+            "FNODE_" : 17,
+            "LENGTH" : 0,
+            "TNODE_" : 35
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "14(34-35).txt",
+            "CONVERAGE_" : 44,
+            "FNAME_" : "14(35-34).txt",
+            "FNODE_" : 35,
+            "LENGTH" : 0,
+            "TNODE_" : 34
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "15(37-18).txt",
+            "CONVERAGE_" : 45,
+            "FNAME_" : "15(18-37).txt",
+            "FNODE_" : 18,
+            "LENGTH" : 0,
+            "TNODE_" : 37
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "16(38-19).txt",
+            "CONVERAGE_" : 46,
+            "FNAME_" : "16(19-38).txt",
+            "FNODE_" : 19,
+            "LENGTH" : 0,
+            "TNODE_" : 38
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      },
+      {
+         "attributes" : {
+            "BNAME_" : "17(39-20).txt",
+            "CONVERAGE_" : 47,
+            "FNAME_" : "17(20-39).txt",
+            "FNODE_" : 20,
+            "LENGTH" : 0,
+            "TNODE_" : 39
+         },
+         "geometry" : {
+            "paths" : {
+               "back" : [ 0 ],
+               "front" : [ 0 ]
+            }
+         }
+      }
+   ]
+}

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1453</width>
+    <height>569</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+    <horstretch>250</horstretch>
+    <verstretch>250</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>DRAW TOOL</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="InteractiveView" name="my_view">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>561</width>
+      <height>411</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_y">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>440</y>
+      <width>113</width>
+      <height>25</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_x">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>440</y>
+      <width>113</width>
+      <height>25</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>420</y>
+      <width>67</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>y</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>420</y>
+      <width>67</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>x</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="read_file">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>50</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>load submap</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_heading">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>440</y>
+      <width>113</width>
+      <height>25</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>420</y>
+      <width>67</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>heading</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="get_point">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>150</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>get point</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="exec_process">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>200</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>exec process</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_file_name">
+    <property name="geometry">
+     <rect>
+      <x>470</x>
+      <y>440</y>
+      <width>113</width>
+      <height>25</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>420</y>
+      <width>67</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>filename</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="draw_map">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>100</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>draw full map</string>
+    </property>
+   </widget>
+   <widget class="InteractiveView" name="full_map_view">
+    <property name="geometry">
+     <rect>
+      <x>690</x>
+      <y>0</y>
+      <width>531</width>
+      <height>411</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+      <horstretch>250</horstretch>
+      <verstretch>199</verstretch>
+     </sizepolicy>
+    </property>
+   </widget>
+   <zorder>lineEdit_y</zorder>
+   <zorder>lineEdit_x</zorder>
+   <zorder>label_2</zorder>
+   <zorder>label</zorder>
+   <zorder>my_view</zorder>
+   <zorder>read_file</zorder>
+   <zorder>lineEdit_heading</zorder>
+   <zorder>label_3</zorder>
+   <zorder>get_point</zorder>
+   <zorder>exec_process</zorder>
+   <zorder>lineEdit_file_name</zorder>
+   <zorder>label_4</zorder>
+   <zorder>draw_map</zorder>
+   <zorder>full_map_view</zorder>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1453</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_F">
+    <property name="title">
+     <string>文件(&amp;F)</string>
+    </property>
+    <addaction name="actionhgh"/>
+   </widget>
+   <addaction name="menu_F"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionhgh">
+   <property name="text">
+    <string>hgh</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>InteractiveView</class>
+   <extends>QGraphicsView</extends>
+   <header>interactiveview.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
