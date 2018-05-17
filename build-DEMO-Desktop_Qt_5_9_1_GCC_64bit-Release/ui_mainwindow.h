@@ -30,7 +30,7 @@ QT_BEGIN_NAMESPACE
 class Ui_MainWindow
 {
 public:
-    QAction *actionhgh;
+    QAction *action_zbl;
     QWidget *centralWidget;
     InteractiveView *my_view;
     QLineEdit *lineEdit_y;
@@ -61,8 +61,8 @@ public:
         sizePolicy.setVerticalStretch(250);
         sizePolicy.setHeightForWidth(MainWindow->sizePolicy().hasHeightForWidth());
         MainWindow->setSizePolicy(sizePolicy);
-        actionhgh = new QAction(MainWindow);
-        actionhgh->setObjectName(QStringLiteral("actionhgh"));
+        action_zbl = new QAction(MainWindow);
+        action_zbl->setObjectName(QStringLiteral("action_zbl"));
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QStringLiteral("centralWidget"));
         my_view = new InteractiveView(centralWidget);
@@ -141,7 +141,10 @@ public:
         MainWindow->setStatusBar(statusBar);
 
         menuBar->addAction(menu_F->menuAction());
-        menu_F->addAction(actionhgh);
+        menu_F->addAction(action_zbl);
+        menu_F->addSeparator();
+        menu_F->addSeparator();
+        menu_F->addSeparator();
 
         retranslateUi(MainWindow);
 
@@ -151,7 +154,10 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QApplication::translate("MainWindow", "DRAW TOOL", Q_NULLPTR));
-        actionhgh->setText(QApplication::translate("MainWindow", "hgh", Q_NULLPTR));
+        action_zbl->setText(QApplication::translate("MainWindow", "zbl", Q_NULLPTR));
+#ifndef QT_NO_SHORTCUT
+        action_zbl->setShortcut(QApplication::translate("MainWindow", "Ctrl+F", Q_NULLPTR));
+#endif // QT_NO_SHORTCUT
         label_2->setText(QApplication::translate("MainWindow", "y", Q_NULLPTR));
         label->setText(QApplication::translate("MainWindow", "x", Q_NULLPTR));
         read_file->setText(QApplication::translate("MainWindow", "load submap", Q_NULLPTR));

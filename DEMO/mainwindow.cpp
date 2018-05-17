@@ -42,10 +42,6 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-void MainWindow::on_pushButton_clicked()
-{
-
-}
 void MainWindow::keyPressEvent(QKeyEvent *event){
     if ((event->modifiers() == Qt::ControlModifier)&&(event->key() == Qt::Key_H)){
             QString info = PaintSubMap::ReadAllInfoFromFile(help_file_path);

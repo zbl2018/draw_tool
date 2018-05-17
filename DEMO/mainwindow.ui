@@ -218,7 +218,10 @@
     <property name="title">
      <string>文件(&amp;F)</string>
     </property>
-    <addaction name="actionhgh"/>
+    <addaction name="action_zbl"/>
+    <addaction name="separator"/>
+    <addaction name="separator"/>
+    <addaction name="separator"/>
    </widget>
    <addaction name="menu_F"/>
   </widget>
@@ -231,9 +234,12 @@
    </attribute>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
-  <action name="actionhgh">
+  <action name="action_zbl">
    <property name="text">
-    <string>hgh</string>
+    <string>zbl</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+F</string>
    </property>
   </action>
  </widget>

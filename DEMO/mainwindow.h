@@ -53,8 +53,6 @@ private slots:
     void is_SkipNextAngle(bool);
     void is_SubMapPressKeyEvent(int);
 
-    void on_pushButton_clicked();
-
     void on_read_file_clicked();
 
     void on_get_point_clicked();
